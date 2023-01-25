@@ -1,0 +1,22 @@
+table,td,th
+				{  
+				   border-collapse:collapse;
+                                   text-align:center;
+                                   padding:18px;
+				   height:13px;
+                                  
+                                   
+				}
+			
+			table  {  background-image:url('https://wallpaperaccess.com/full/461236.jpg');
+				 width:100%;
+				  background-repeat:no-repeat; 
+                                  background-size:cover;
+				  				   
+                               }
+				
+			th:hover { 
+                                            background-image:url('../images/angrybird.png');width:12px;
+                                            background-size:contain;
+                                 }
+                       
